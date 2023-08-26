@@ -3,6 +3,8 @@ title: Documenting My Projects with Jekyll and GitHub
 date: 2023-08-25
 catagories: [projects,software]
 tags: [github,jekyll,documentation]
+---
+
 
 #Documenting My Projects with Jekyll and GitHub 
 
